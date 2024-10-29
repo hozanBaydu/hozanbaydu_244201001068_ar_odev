@@ -2,4 +2,4 @@
 
 **https://drive.google.com/drive/folders/1BG1MW2aTB8KsZVfnWenzBOcqn3hkMHvC**
 
-[Videoyu izlemek için tıklayın]([videos/video.mp4](https://www.youtube.com/watch?v=qMkjUmyx_b4))
+[Videoyu izlemek için tıklayın](https://www.youtube.com/watch?v=qMkjUmyx_b4)
